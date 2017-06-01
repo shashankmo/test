@@ -110,6 +110,7 @@ We remind every visitor that we have the empowerment to save lives and let’s d
 	</div>
 		<div class="copy">
 			<p class="title">© All Rights Reserved </p>
+			<p> Test 1 </p>
 		</div>
 	<div class="clear"></div>
 </div>
